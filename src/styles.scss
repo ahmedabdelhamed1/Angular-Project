@@ -1,0 +1,9 @@
+@import '~ngx-owl-carousel-o/lib/styles/scss/owl.carousel';
+@import '~ngx-owl-carousel-o/lib/styles/scss/owl.theme.default';
+$direction:rtl;
+$maincolor:#2b3f79;
+$secbackground: #ffefc8;
+body 
+{
+    direction: $direction;
+}
